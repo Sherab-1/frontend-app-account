@@ -31,7 +31,7 @@ const messages = {
   uk: ukMessages,
   'de-de': dedeCAMessages,
   'it-it': ititCAMessages,
-  'bo': boMessages,
+  bo: boMessages,
   'pt-pt': ptptCAMessages,
 };
 
